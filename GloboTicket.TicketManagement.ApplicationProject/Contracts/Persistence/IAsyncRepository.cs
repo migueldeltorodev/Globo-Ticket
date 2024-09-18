@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GloboTicket.TicketManagement.ApplicationProject.Contracts.Persistence
 {
-    public interface IAsyncRepository
+    public interface IAsyncRepository<T>
     {
         Task<T> GetByIdAsync(Guid id);
         Task<IReadOnlyList<T>> ListAllAsync();
