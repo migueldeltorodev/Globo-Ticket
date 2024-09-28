@@ -5,9 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GloboTicket.TicketManagement.ApplicationProject.Contracts.Persistence
+namespace GloboTicket.TicketManagement.Application.Contracts.Persistence
 {
-    internal interface IEventRepository : IAsyncRepository<Event>
+    public interface IEventRepository : IAsyncRepository<Event>
     {
+        Task<bool> IsEventNameAndDateUnique(string name, DateTime eventDate);
     }
 }

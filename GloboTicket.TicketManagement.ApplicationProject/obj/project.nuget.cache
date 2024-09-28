@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QRlLBLwZONU7893TfZxnDRcfAmFMDFQaOcszLe61hgLpr07mb1rsIC8RDwZFjxeMcMLyx1H/huL5T6YOsimfGw==",
+  "dgSpecHash": "ThcB4TWlJv4JjnBgEtdW1C4TbQH3UQG+4SrAvhg34ZHFV6g9CKWRpnl0z3HKpgK4At+e3GGdVozTe9n7Kr1tqw==",
   "success": true,
   "projectFilePath": "D:\\DataBank\\2024 Programacion\\Clean A\\Globo Ticket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.ApplicationProject\\GloboTicket.TicketManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SHIN\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
-    "C:\\Users\\SHIN\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\SHIN\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
     "C:\\Users\\SHIN\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.10.0\\fluentvalidation.dependencyinjectionextensions.11.10.0.nupkg.sha512",
     "C:\\Users\\SHIN\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
