@@ -2,7 +2,7 @@
 
 namespace GloboTicket.TicketManagement.Application.Features.Events.Commands.CreateEvent
 {
-    public class CreateEventCommand : IRequest<Guid>
+    public class CreateEventCommand : IRequest<CreateEventCommandResponse>
     {
         public string Name { get; set; }
         public int Price { get; set; }

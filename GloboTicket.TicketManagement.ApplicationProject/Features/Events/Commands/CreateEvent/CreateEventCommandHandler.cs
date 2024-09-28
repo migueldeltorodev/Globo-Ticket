@@ -5,7 +5,7 @@ using MediatR;
 
 namespace GloboTicket.TicketManagement.Application.Features.Events.Commands.CreateEvent
 {
-    public class CreateEventCommandHandler : IRequestHandler<CreateEventCommand, Guid>
+    public class CreateEventCommandHandler : IRequestHandler<CreateEventCommand, CreateEventCommandResponse>
     {
         private readonly IEventRepository _eventRepository;
         private readonly IMapper _mapper;
@@ -16,11 +16,30 @@ namespace GloboTicket.TicketManagement.Application.Features.Events.Commands.Crea
             _mapper = mapper;
         }
 
-        public async Task<Guid> Handle(CreateEventCommand request, CancellationToken cancellationToken)
+        public async Task<CreateEventCommandResponse> Handle(CreateEventCommand request, CancellationToken cancellationToken)
         {
-            var eventEntity = _mapper.Map<Event>(request);
-            await _eventRepository.AddAsync(eventEntity);
-            return eventEntity.EventId;
+            var theEvent = _mapper.Map<Event>(request);
+            var createEventCommandResponse = new CreateEventCommandResponse();
+            var validator = new CreateEventCommandValidator(_eventRepository);
+            var validationResult = await validator.ValidateAsync(request);
+
+            if(validationResult.Errors.Count > 0)
+            {
+                createEventCommandResponse.Success = false;
+                createEventCommandResponse.ValidationErrors = new List<string>();
+                foreach (var error in validationResult.Errors)
+                {
+                    createEventCommandResponse.ValidationErrors.Add(error.ErrorMessage);
+                }
+            }
+
+            if (createEventCommandResponse.Success)
+            {
+                theEvent = await _eventRepository.AddAsync(theEvent);
+                createEventCommandResponse.EventDto = _mapper.Map<CreateEventDto>(theEvent);
+            }
+
+            return createEventCommandResponse;
         }
     }
 }
