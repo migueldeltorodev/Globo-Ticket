@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DataBank\\2024 Programacion\\Clean A\\Globo Ticket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.ApplicationProject\\GloboTicket.TicketManagement.ApplicationProject.csproj": {}
+    "D:\\DataBank\\2024 Programacion\\Clean A\\Globo Ticket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.ApplicationProject\\GloboTicket.TicketManagement.Application.csproj": {}
   },
   "projects": {
-    "D:\\DataBank\\2024 Programacion\\Clean A\\Globo Ticket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.ApplicationProject\\GloboTicket.TicketManagement.ApplicationProject.csproj": {
+    "D:\\DataBank\\2024 Programacion\\Clean A\\Globo Ticket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.ApplicationProject\\GloboTicket.TicketManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DataBank\\2024 Programacion\\Clean A\\Globo Ticket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.ApplicationProject\\GloboTicket.TicketManagement.ApplicationProject.csproj",
-        "projectName": "GloboTicket.TicketManagement.ApplicationProject",
-        "projectPath": "D:\\DataBank\\2024 Programacion\\Clean A\\Globo Ticket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.ApplicationProject\\GloboTicket.TicketManagement.ApplicationProject.csproj",
+        "projectUniqueName": "D:\\DataBank\\2024 Programacion\\Clean A\\Globo Ticket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.ApplicationProject\\GloboTicket.TicketManagement.Application.csproj",
+        "projectName": "GloboTicket.TicketManagement.Application",
+        "projectPath": "D:\\DataBank\\2024 Programacion\\Clean A\\Globo Ticket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.ApplicationProject\\GloboTicket.TicketManagement.Application.csproj",
         "packagesPath": "C:\\Users\\SHIN\\.nuget\\packages\\",
         "outputPath": "D:\\DataBank\\2024 Programacion\\Clean A\\Globo Ticket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.ApplicationProject\\obj\\",
         "projectStyle": "PackageReference",
@@ -48,6 +48,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -108,6 +122,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

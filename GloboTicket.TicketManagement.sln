@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "infrastructure", "infrastru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GloboTicket.TicketManagement.Domain", "GloboTicket.TicketManagement.Domain\GloboTicket.TicketManagement.Domain.csproj", "{AFAE534E-68DF-4F95-A7B0-0BBC845DACC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboTicket.TicketManagement.ApplicationProject", "GloboTicket.TicketManagement.ApplicationProject\GloboTicket.TicketManagement.ApplicationProject.csproj", "{D0CF7C76-713C-4445-8384-738CF8D68BFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboTicket.TicketManagement.Application", "GloboTicket.TicketManagement.ApplicationProject\GloboTicket.TicketManagement.Application.csproj", "{D0CF7C76-713C-4445-8384-738CF8D68BFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

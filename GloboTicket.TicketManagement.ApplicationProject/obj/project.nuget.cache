@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "7DKU0/XzFTIiR1dhpnNcqGiTVOEEyerZV6wN/qWpX51ZvK223AbuuNmmln0SRXdCzkZDO5Vn9LLoYLmFlJhqDw==",
+  "dgSpecHash": "CbjEKumtVA1/H33TniDTZ5D3yBtzVdr7lQy8cJfjqhNTK1YQrtgc88DNpJ/DuUVZOXfj4z3q1irQCjiW6Xrn0Q==",
   "success": true,
-  "projectFilePath": "D:\\DataBank\\2024 Programacion\\Clean A\\Globo Ticket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.ApplicationProject\\GloboTicket.TicketManagement.ApplicationProject.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\DataBank\\2024 Programacion\\Clean A\\Globo Ticket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.ApplicationProject\\GloboTicket.TicketManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SHIN\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\SHIN\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\SHIN\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\SHIN\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\SHIN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\SHIN\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\SHIN\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\SHIN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
