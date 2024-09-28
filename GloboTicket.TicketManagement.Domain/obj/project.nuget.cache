@@ -1,17 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sRHUXEPu8r4q3M15NRhEAO9vWTcuHBvxj3zUpmVq/vtV5WZdtFcHHVP+SqKHVss0daSw1ISzPyMCiYxTwLIGpQ==",
+  "dgSpecHash": "CRx73PWgPcI2B9IafltvVWomKSMy3qZ0Jsppi4XdewL0E5bdVY4RIzPZfpA/BqbEJK/xwAJ1Sm0PKTBlRyJ7cw==",
   "success": true,
   "projectFilePath": "D:\\DataBank\\2024 Programacion\\Clean A\\Globo Ticket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\SHIN\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
-    "C:\\Users\\SHIN\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
-    "C:\\Users\\SHIN\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
-    "C:\\Users\\SHIN\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\SHIN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\SHIN\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\SHIN\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\SHIN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

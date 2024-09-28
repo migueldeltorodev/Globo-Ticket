@@ -1,0 +1,6 @@
+D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.csproj.AssemblyReference.cache
+D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.AssemblyInfoInputs.cache
+D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.AssemblyInfo.cs
+D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.csproj.CoreCompileInputs.cache
+D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.sourcelink.json

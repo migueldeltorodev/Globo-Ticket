@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Contracts\Infrastructure\" />
-    <Folder Include="Exceptions\" />
     <Folder Include="Features\Categories\Commands\" />
     <Folder Include="Features\Orders\" />
     <Folder Include="Models\" />
@@ -17,6 +16,8 @@
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="13.0.1" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="FluentValidation" Version="11.10.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.10.0" />
     <PackageReference Include="MediatR" Version="12.4.1" />
   </ItemGroup>
 
