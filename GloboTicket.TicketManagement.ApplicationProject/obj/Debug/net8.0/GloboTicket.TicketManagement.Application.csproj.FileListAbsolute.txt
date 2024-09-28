@@ -4,3 +4,13 @@ D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\
 D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.AssemblyInfo.cs
 D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.csproj.CoreCompileInputs.cache
 D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.sourcelink.json
+D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\bin\Debug\net8.0\GloboTicket.TicketManagement.Application.deps.json
+D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\bin\Debug\net8.0\GloboTicket.TicketManagement.Application.dll
+D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\bin\Debug\net8.0\GloboTicket.TicketManagement.Application.pdb
+D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\bin\Debug\net8.0\GloboTicket.TicketManagement.Domain.dll
+D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\bin\Debug\net8.0\GloboTicket.TicketManagement.Domain.pdb
+D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\obj\Debug\net8.0\GloboTic.C7484A60.Up2Date
+D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.dll
+D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\obj\Debug\net8.0\refint\GloboTicket.TicketManagement.Application.dll
+D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.pdb
+D:\DataBank\2024 Programacion\Clean A\Globo Ticket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.ApplicationProject\obj\Debug\net8.0\ref\GloboTicket.TicketManagement.Application.dll

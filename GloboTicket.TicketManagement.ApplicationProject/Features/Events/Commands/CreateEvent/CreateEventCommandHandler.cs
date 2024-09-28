@@ -23,7 +23,7 @@ namespace GloboTicket.TicketManagement.Application.Features.Events.Commands.Crea
             var validator = new CreateEventCommandValidator(_eventRepository);
             var validationResult = await validator.ValidateAsync(request);
 
-            if(validationResult.Errors.Count > 0)
+            if (validationResult.Errors.Count > 0)
             {
                 createEventCommandResponse.Success = false;
                 createEventCommandResponse.ValidationErrors = new List<string>();

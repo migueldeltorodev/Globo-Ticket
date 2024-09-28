@@ -12,7 +12,7 @@ namespace GloboTicket.TicketManagement.Application.Features.Categories.Queries.G
         public GetCategoriesListQueryHandler(ICategoryRepository categoryRepository, IMapper mapper)
         {
             _categoryRepository = categoryRepository;
-            _mapper = mapper;   
+            _mapper = mapper;
         }
         public async Task<List<CategoryListVm>> Handle(GetCategoriesListQuery request, CancellationToken cancellationToken)
         {
